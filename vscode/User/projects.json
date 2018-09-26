@@ -1,0 +1,116 @@
+[
+	{
+		"name": "howtographql-news-api",
+		"rootPath": "$home/Projects/howtographql-news-api",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "chatty",
+		"rootPath": "$home/Projects/chatty",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "gatsby-starter-netlify-cms",
+		"rootPath": "$home/Projects/gatsby-starter-netlify-cms",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "codestack-blog",
+		"rootPath": "$home/Projects/codestack-blog",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "blog-starter",
+		"rootPath": "$home/Projects/blog-starter",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "pluralsight-countdown",
+		"rootPath": "$home/Projects/countdown",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "todoist-clone",
+		"rootPath": "$home/Projects/todoist-clone",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "tocbox_portal",
+		"rootPath": "$home/Projects/tocbox_portal",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "PrecisionFluidRN",
+		"rootPath": "$home/Projects/PrecisionFluidRN",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "School",
+		"rootPath": "$home/Documents/School",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "howtographql-news-frontend",
+		"rootPath": "$home/Projects/howtographql-news-frontend",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "todo-pwa",
+		"rootPath": "$home/Projects/todo-pwa",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "todo-rest-api",
+		"rootPath": "$home/Projects/todo-rest-api",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "skypey",
+		"rootPath": "$home/Projects/skypey",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "NoRefill",
+		"rootPath": "$home/Projects/NoRefill",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "testgen",
+		"rootPath": "$home/Projects/testgen",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "robofriends",
+		"rootPath": "$home/Projects/robofriends",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "react-from-scratch",
+		"rootPath": "$home/Projects/react-from-scratch",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "sort-project",
+		"rootPath": "$home/Projects/sort-project",
+		"paths": [],
+		"group": ""
+	}
+]

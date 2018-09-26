@@ -1,0 +1,54 @@
+{
+   "workbench.colorTheme": "Solarized Dark",
+   "workbench.iconTheme": "eq-material-theme-icons",
+   // For Windows
+   // "editor.fontFamily": "'Operator Mono'",
+   // Gitlens settings
+   "gitlens.advanced.messages": {
+      "suppressCommitHasNoPreviousCommitWarning": false,
+      "suppressCommitNotFoundWarning": false,
+      "suppressFileNotUnderSourceControlWarning": false,
+      "suppressGitVersionWarning": false,
+      "suppressLineUncommittedWarning": false,
+      "suppressNoRepositoryWarning": false,
+      "suppressResultsExplorerNotice": false,
+      "suppressShowKeyBindingsNotice": true
+   },
+   "gitlens.currentLine.enabled": false,
+   // VSTS settings
+   "team.showWelcomeMessage": false,
+   // terminal settings
+   "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+   "terminal.integrated.shell.osx": "/bin/zsh",
+   // Might cause issues if zsh is not set up
+   // Look up installing powerline fonts for more info
+   // This is a necessity for the `agnoster` ohmyzsh theme
+   "terminal.integrated.fontFamily": "'Meslo LG S for Powerline'",
+   // Prettier settings
+   "editor.formatOnSave": true,
+   "prettier.tabWidth": 3,
+   "editor.tabSize": 3,
+   // settings-sync settings
+   "sync.gist": "55ed2193cb3ca636fc0b2443f6d7e7d9",
+   "sync.autoDownload": false,
+   "sync.autoUpload": false,
+   "sync.forceDownload": false,
+   "sync.quietSync": false,
+   "sync.askGistName": false,
+   "sync.removeExtensions": true,
+   "sync.syncExtensions": true,
+   //Markdown Settings
+   "markdown.preview.lineHeight": 1.4,
+   "[markdown]": {
+      "editor.insertSpaces": true,
+      "editor.tabSize": 3
+      // "editor.autoIndent": false
+   },
+   "markdown.extension.toc.updateOnSave": false,
+   "gitlens.historyExplorer.enabled": true,
+   "javascript.updateImportsOnFileMove.enabled": "never",
+   "git.ignoreMissingGitWarning": true,
+   "git.path": "/usr/bin/git",
+   "window.zoomLevel": 0,
+   "editor.formatOnPaste": true
+}
